@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-15T06:05:01.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="ErWxcCVafmb5i3go2UFJ" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-15T06:09:47.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="HTXXqIUt9Pm8aPWl1wZ3" version="21.6.1" type="github">
   <diagram name="Página-1" id="CkdQ_40eLKM1FDib4vKP">
-    <mxGraphModel dx="1615" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2327" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -477,6 +477,24 @@
             <mxPoint x="1000" y="219.38" as="sourcePoint" />
             <mxPoint x="1040" y="219.38" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4qIM2cVefQbF1bmY9J0a-170" value="Input Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="105" y="350" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4qIM2cVefQbF1bmY9J0a-171" value="Hidden Layers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="485" y="490" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4qIM2cVefQbF1bmY9J0a-172" value="Output Layer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="900" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4qIM2cVefQbF1bmY9J0a-173" value="Easting (X)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="145" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4qIM2cVefQbF1bmY9J0a-174" value="Northing (Y)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="265" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4qIM2cVefQbF1bmY9J0a-175" value="Mineral Grade" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="205" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
